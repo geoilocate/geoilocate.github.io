@@ -58,6 +58,7 @@
                                                     <li><a href="service-surveying.html">Surveying</a></li>
                                                     <li><a href="service-remote-sensing.html">Remote Sensing</a></li>
                                                     <li><a href="service-geoforms.html">GeoForms</a></li>
+						    <li><a href="service-townplanning.html">Town Planning</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="projects.html">Projects</a></li>
@@ -100,6 +101,7 @@
                                 <li><a href="service-surveying.html">Surveying</a></li>
                                 <li><a href="service-remote-sensing.html">Remote Sensing</a></li>
                                 <li><a href="service-geoforms.html">GeoForms</a></li>
+				<li><a href="service-townplanning.html">Town Planning</a></li>
                             </ul>
                         </li>
                         <li style="margin-bottom:5px"><a href="projects.html">Projects</a></li>
@@ -136,7 +138,7 @@
             <h2><strong>About GEOILOCATE</strong></h2>
             <p class="pmargin">
                 GEOILOCATE is a wholly black-owned consulting company offering services and products within the following domains - Geographical
-                Information System (GIS), Remote Sensing, Location Based Services (LBS) and Surveying.
+                Information System (GIS), Remote Sensing, Location Based Services (LBS), Surveying and Town Planning.
             </p>
             <p>
             	We pride ourselves in providing services and products that meet and solve your business needs.
@@ -153,6 +155,7 @@
                 <li><a href="service-geocoding.html">Surveying</a></li>
                 <li><a href="service-remote-sensing.html" >Remote Sensing</a></li>
                 <li><a href="service-geoforms.html" >Geoforms</a></li>
+		<li><a href="service-townplanning.html">Town Planning</a></li>
             </ul>
         </div><!-- end section -->
         
@@ -173,10 +176,10 @@
     <div class="copyright_info">
         <div class="container">
             <div class="one_half">
-                <strong>64 Kennington Road, Nahoon, East London, South Africa</strong>
+                <strong>8 Rochester Road, Vincent, East London, South Africa</strong>
             </div>
             <div class="one_half last" align="right">
-                <span>&copy; 2014 <a href="./">GEOILOCATE</a>. All rights reserved.
+                <span>&copy; 2024 <a href="./">GEOILOCATE</a>. All rights reserved.
                 <!-- <br/>Designed and Developed by <a href="http://www.sevenlemons.net" style="text-decoration:none">Seven Lemons Design Studio</a></span> -->
             </div>
         </div>
